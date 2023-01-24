@@ -1,0 +1,93 @@
+/* Navigation bar */
+.navbar-brand {
+    font-family: 'Merienda', cursive;
+    font-size: 20px;
+    font-weight: bolder;
+}
+
+/* Features section */
+#features {
+    padding-top: 7%;
+    padding-bottom: 7%;
+    padding-left: 15%;
+    padding-right: 15%;
+}
+
+/* Slide Show */
+#slide-show{
+    /* background-color: #91D8E4; */
+    text-align: center;
+}
+
+/* Footer */
+.bottom{
+    text-align: center;
+}
+
+#twit {
+    height: 80px;
+    width: 80px;
+    margin: 15%,7% ;
+}
+
+#insta {
+    height: 80px;
+    width: 80px;
+    margin: 15%,7% ;
+}
+
+#wha {
+    height: 80px;
+    width: 80px;
+    margin: 15%,7% ;
+}
+
+.carousel-item{
+    height: 700px;
+    padding-top: 7%;
+    padding-bottom: 7%;
+    padding-left: 15%;
+    padding-right: 15%;
+}
+
+.feature-box {
+    text-align: center;
+}
+
+.Download-buttons {
+    margin: 5% 3% 5% 0%;
+}
+
+.bg {
+    background-color: #5BC0F8;
+}
+
+/* Images */
+
+#hd{
+    height: 80px;
+    width: 80px;
+}
+
+#easy{
+    height: 80px;
+    width: 80px;
+}
+
+#cate{
+    height: 80px;
+    width: 80px;
+}
+
+
+#tittle {
+    background-color: #91D8E4;
+}
+
+h1 {
+    font-family: 'Arvo', serif;
+}
+
+h3{
+    font-family: 'Roboto Mono', monospace;
+}
